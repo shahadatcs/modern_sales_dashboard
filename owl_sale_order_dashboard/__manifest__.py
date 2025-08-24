@@ -6,10 +6,11 @@
     'summary': 'OWL-based Sales Dashboard',
     'description': 'Interactive sales dashboard with OWL components',
     'author': 'Shahadat Hossain',
-    'company': 'Xsellence Bangladesh Ltd',
+    'company': '',
     'maintainer': 'Shahadat Hossain',
-    'website': "",
+    'website': "https://github.com/shahadatcs/modern_sales_dashboard.git",
     'license': 'LGPL-3',
+    'images': ['static/description/icon.png'],
     'depends': ['web','sale','sale_management','account'],
     'data': [
         'security/security.xml',
